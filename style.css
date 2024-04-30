@@ -74,7 +74,7 @@ section .title::after{
     bottom: -8px;
     left: 50%;
     font-size: 20px;
-    color: crimson;
+    color: rgb(73, 4, 175);
     padding: 0 5px;
     background: #fff;
     transform: translateX(-50%);
@@ -123,7 +123,7 @@ section .title::after{
     transition: color 0.3s ease;
 }
 .navbar .menu li a:hover{
-    color: crimson;
+    color: rgb(49, 0, 197);
 }
 .navbar.sticky .menu li a:hover{
     color: #fff;
@@ -140,7 +140,7 @@ section .title::after{
     position: fixed;
     height: 45px;
     width: 42px;
-    background: crimson;
+    background: rgb(67, 1, 189);
     right: 30px;
     bottom: 10px;
     text-align: center;
