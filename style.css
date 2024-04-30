@@ -243,7 +243,7 @@ section .title::after{
     margin-bottom: 10px;
 }
 .about .about-content .right .text span{
-    color: crimson;
+    color: rgb(49, 0, 197);
 }
 .about .about-content .right p{
     text-align: justify;
