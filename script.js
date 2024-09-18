@@ -35,15 +35,15 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Recent Graduate from UWaterloo", "Automation Developer", "Passionate Data Scientist", "Team Player"],
+        strings: ["Recent Graduate from UWaterloo", "Product Developer", "Passionate Data Scientist", "Team Player"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Recent Graduate from UWaterloo", "Passionate Data Scientist", "Passionate Software Developer", "Team Player"],
-        typeSpeed: 100,
+        strings: ["Graduate from UWaterloo", "Big Sports and Finance Enthusiast", "Passionate Software Developer", "Team Player"],
+        typeSpeed: 85,
         backSpeed: 60,
         loop: true
     });
