@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Graduate from UWaterloo", "Big Sports and Finance Enthusiast", "Passionate Software Developer", "Team Player"],
+        strings: ["Graduate from UWaterloo", "Big Sports and FinTech Enthusiast", "Passionate Software Developer", "Team Player"],
         typeSpeed: 85,
         backSpeed: 60,
         loop: true
