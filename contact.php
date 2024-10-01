@@ -42,7 +42,7 @@ if($_POST) {
     }
       
     
-    $recipient = "patel.maan14@gmail.com";
+    $recipient = "gabriel.shehamte@gmail.com";
     
       
     $email_body .= "</div>";
